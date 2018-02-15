@@ -1,3 +1,1 @@
-[include] (https://github.com/aurora848/vaishnavis.com/blob/master/download/VaishnaviSrinivasan4.0.docx)
-
-
+[My Resume](https://github.com/aurora848/vaishnavis.com/blob/gh-pages/VaishnaviSrinivasan4.0.pdf)
